@@ -14,7 +14,7 @@ Seven sections follow the [BetterGov LGU guide](https://lgu.bettergov.ph/GUIDE):
 
 ## Data
 
-205 sourced listings: 33 offices, 49 barangay names, 10 elected officials, 25 Citizen’s Charter links, 5 detailed service guides, 29 projects, 17 ordinances, 34 resolutions and 3 LGSF report links. See `src/data.json` for per-entry sources, review dates and caveats. Contact numbers have not been telephone-tested. Public source information was reviewed 8 November 2026. Barangay listings are names only, not verified contact listings. Historical procurement records do not establish delivery or completion. No current financial dataset or complete recent ordinance archive is claimed.
+208 sourced listings: 33 offices, 49 barangay names, 10 elected officials, 25 Citizen’s Charter links, 5 detailed service guides, 29 projects, 17 ordinances, 34 resolutions 3 LGSF report links and 3 historical appropriation references. See `src/data.json` for per-entry sources, review dates and caveats. Contact numbers have not been telephone-tested. Public source information was reviewed 8 November 2026. Barangay listings are names only, not verified contact listings. Historical procurement records do not establish delivery or completion. No current financial dataset or complete recent ordinance archive is claimed.
 
 ## Contribute
 

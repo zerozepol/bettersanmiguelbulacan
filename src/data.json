@@ -3219,5 +3219,50 @@
     "source": "https://www.sanmiguelbulacan.gov.ph/transparency/local-government-support-fund",
     "documentUrl": "https://drive.google.com/file/d/1YXsBX7Ix-IZRGrvKN1Lg5gn-cb--NmD6/view",
     "id": 205
+  },
+  {
+    "id": 206,
+    "lgu": "sm",
+    "kind": "budget",
+    "name": "FY2024 annual appropriation — Kautusang Bayan 2023-007",
+    "category": "Historical appropriation",
+    "period": "FY2024",
+    "description": "Pondong inilaan para sa pagpapatakbo ng pamahalaang bayan sa 2024, ayon sa pamagat sa DILG archive. Halaga: ₱613,527,312.28.",
+    "source": "https://www.lgrcbulacan.region3.dilg.gov.ph/e-library/lgu-ordinances/san-miguel",
+    "reviewed": "2026-11-08",
+    "note": "Historical record. Pamagat at halaga sa opisyal na DILG index lamang ang na-review; hindi pa ang buong dokumento. Appropriation ito, hindi aktuwal na gastos at hindi kasalukuyang 2026 budget. Hindi pinagsasama ang mga halagang ito bilang current total.",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  {
+    "id": 207,
+    "lgu": "sm",
+    "kind": "budget",
+    "name": "FY2024 supplemental budget no. 1 — Appropriation Ordinance 2024-01",
+    "category": "Historical appropriation",
+    "period": "FY2024",
+    "description": "Karagdagang General Fund appropriation sa 2024; hiwalay sa annual appropriation. Halaga: ₱60,746,879.01.",
+    "source": "https://www.lgrcbulacan.region3.dilg.gov.ph/e-library/lgu-ordinances/san-miguel",
+    "reviewed": "2026-11-08",
+    "note": "Historical record. Pamagat at halaga sa opisyal na DILG index lamang ang na-review; hindi pa ang buong dokumento. Appropriation ito, hindi aktuwal na gastos at hindi kasalukuyang 2026 budget. Hindi pinagsasama ang mga halagang ito bilang current total.",
+    "phone": "",
+    "email": "",
+    "address": ""
+  },
+  {
+    "id": 208,
+    "lgu": "sm",
+    "kind": "budget",
+    "name": "FY2023 annual appropriation — Kautusang Bayan 2022-012",
+    "category": "Historical appropriation",
+    "period": "FY2023",
+    "description": "Pondong inilaan para sa pagpapatakbo ng pamahalaang bayan sa 2023, ayon sa pamagat sa DILG archive. Halaga: ₱583,669,365.86.",
+    "source": "https://www.lgrcbulacan.region3.dilg.gov.ph/e-library/lgu-ordinances/san-miguel",
+    "reviewed": "2026-11-08",
+    "note": "Historical record. Pamagat at halaga sa opisyal na DILG index lamang ang na-review; hindi pa ang buong dokumento. Appropriation ito, hindi aktuwal na gastos at hindi kasalukuyang 2026 budget. Hindi pinagsasama ang mga halagang ito bilang current total.",
+    "phone": "",
+    "email": "",
+    "address": ""
   }
 ]

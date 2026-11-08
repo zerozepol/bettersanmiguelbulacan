@@ -10,7 +10,7 @@ Reviewed 8 November 2026. This is an independent compilation, not an LGU certifi
 | Services | 25 charter links and 5 short guides | Charter text reviewed for indigency (MSWDO p5), medical certificate (2025 MHO pp7–8), farmer certification (2024 MAO p4), RSBSA registration (2024 MAO p5), PESO referral (pp17–18). Requirements and timings are document standards, not promises of actual processing time. |
 | Projects | 29 index listings from 2024–2025 | All names, locations and index years reviewed. Five detail pages additionally reviewed for cost, funding, implementation and source-reported status; other entries explicitly have no verified detail status. No field inspection. |
 | Legislation | 17 ordinances and 34 resolutions | Official index titles, descriptions, dates and document URLs. Full texts, amendments and current enforceability not reviewed. |
-| Fiscal documents | 3 LGSF reports for 2026 Q2/Q3 | Official report listings and PDF availability checked; scanned amounts not transcribed. These are not total municipal budgets or expenditure accounts. |
+| Fiscal documents | 3 LGSF reports for 2026 Q2/Q3; 3 historical appropriation references | Official report listings and PDF availability checked; scanned amounts not transcribed. LGSF reports are not total municipal budgets or expenditure accounts. DILG archive titles also establish FY2023 and FY2024 annual appropriation references and FY2024 supplemental budget no. 1; full documents not reviewed. Appropriations are not actual spending or the current 2026 budget. |
 
 ## Remaining source gaps
 
@@ -22,3 +22,5 @@ Reviewed 8 November 2026. This is an independent compilation, not an LGU certifi
 - Full legislative texts, subsequent amendments and complete historical archive.
 
 Every listing includes its primary source, review date and any narrower caveat. Document links are separate from official index links. Do not interpret missing information as absence of a service, document or project. Do not total planning approvals as spending or use historic project figures as the current budget.
+
+Historical appropriation index: https://www.lgrcbulacan.region3.dilg.gov.ph/e-library/lgu-ordinances/san-miguel

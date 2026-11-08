@@ -10,3 +10,5 @@
 @media(max-width:620px){.site-header .main-nav{max-height:none;visibility:visible;opacity:1;overflow:visible;padding:0;border:0}.home-hero-v2-text h1{font-size:29px}.home-search-box h2{font-size:20px}}
 
 @media(max-width:620px){.site-header .main-nav a,.site-header .main-nav button{padding:4px 0;line-height:1.5}}
+
+.coverage{padding:20px;background:#eef5ff;border:1px solid #ccdcf4;border-radius:10px;margin:20px 0}.coverage p{margin:8px 0 0;font-size:14px}#detail-body li{margin-bottom:10px}#detail-body ul,#detail-body ol{padding-left:24px}

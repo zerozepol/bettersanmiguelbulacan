@@ -10,15 +10,15 @@ No package installation is required. Build using `node build.mjs`, then run `pyt
 
 This is an independent repository, with its own initial commit, source, LGU data and build. No dependency on the previous shared portal or another LGU repository. Relative asset paths support both domain-root and subpath hosting.
 
-Six sections follow the [BetterGov LGU guide](https://lgu.bettergov.ph/GUIDE): offices/services, barangays, officials, budget/expenditure sources, project records and ordinance archive. Adapted from the BetterSolano static HTML template. Upstream styles and component structures are retained, with LGU-specific content and the sourced directory behavior. See TEMPLATE.md and LICENSES/BetterSolano.txt for provenance and license details.
+Seven sections follow the [BetterGov LGU guide](https://lgu.bettergov.ph/GUIDE): offices, service guides, barangays, officials, budget/expenditure sources, project records and ordinance archive. Adapted from the BetterSolano static HTML template. Upstream styles and component structures are retained, with LGU-specific content and the sourced directory behavior. See TEMPLATE.md and LICENSES/BetterSolano.txt for provenance and license details.
 
 ## Data
 
-63 sourced listings, including 49 barangay name listings. See `src/data.json` for per-entry sources, review dates and caveats. Contact numbers have not been telephone-tested. Public source information was reviewed 8 November 2026. Barangay listings are names only, not verified contact listings. Historical procurement records do not establish delivery or completion. No current financial dataset or complete recent ordinance archive is claimed.
+205 sourced listings: 33 offices, 49 barangay names, 10 elected officials, 25 Citizen’s Charter links, 5 detailed service guides, 29 projects, 17 ordinances, 34 resolutions and 3 LGSF report links. See `src/data.json` for per-entry sources, review dates and caveats. Contact numbers have not been telephone-tested. Public source information was reviewed 8 November 2026. Barangay listings are names only, not verified contact listings. Historical procurement records do not establish delivery or completion. No current financial dataset or complete recent ordinance archive is claimed.
 
 ## Contribute
 
-Open an issue or PR with a public source for corrections. Add the source URL, `reviewed` date, and a note explaining uncertainty. Rebuild and check search, all six sections, dialogs, CSV and mobile before publishing. Review public sources quarterly; no automatic monitoring is configured.
+Open an issue or PR with a public source for corrections. Add the source URL, `reviewed` date, and a note explaining uncertainty. Rebuild and check search, all seven sections, dialogs, CSV and mobile before publishing. Review public sources quarterly; no automatic monitoring is configured.
 
 ## Deployment
 
@@ -28,7 +28,15 @@ Build output is `dist/`, suitable for static hosting. This repository has no hos
 
 - https://bulacan.gov.ph/cities-and-municipalities/san-miguel/
 - https://bulacan.gov.ph/contact-us/
-- https://fdpp.blgs.gov.ph/
+- https://www.sanmiguelbulacan.gov.ph/government/offices
+- https://www.sanmiguelbulacan.gov.ph/government/nationaloffices
+- https://www.sanmiguelbulacan.gov.ph/government/officials
+- https://www.sanmiguelbulacan.gov.ph/transparency/citizens-charter
+- https://www.sanmiguelbulacan.gov.ph/government/projects
+- https://www.sanmiguelbulacan.gov.ph/transparency/sangguniang-bayan
+- https://www.sanmiguelbulacan.gov.ph/transparency/local-government-support-fund
+
+See SOURCE-AUDIT.md for the distinction between index metadata, reviewed charter text, and unreviewed document contents.
 
 ## Template
 [BetterSolano](https://github.com/BetterSolano/bettersolano), static main branch, adapted with attribution. See TEMPLATE.md for the pinned commit and exact changes. The existing LGU data and Git history are preserved.

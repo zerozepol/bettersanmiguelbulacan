@@ -34,3 +34,10 @@ Historical appropriation index: https://www.lgrcbulacan.region3.dilg.gov.ph/e-li
 - Registration PR #402 remains OPEN with no human reviews. Automated triage reports the live site, repositories and maintainer links return HTTP 200. No maintainer label changes made.
 
 Remaining gaps listed above still apply, except the first historical actual-spending dataset and three scoped barangay contacts are now available. Current actuals, final FY2026 annual appropriation and general office hours were not found in the reviewed public sources.
+
+## Follow-up source review — 9 November 2026
+
+- Opened BLGF Statistics in the browser and followed Annual → By LGU → SRE. FY2025 is the newest annual workbook linked there. Downloaded the exact official By-LGU-SRE-2025.xlsx release. It is labelled FY2025 Preliminary, extraction date 3 March 2026.
+- Matched SRE row 559 using all four location/type fields. Checked Excel number format #,##0.00,,: underlying values are PHP, displayed as PHP millions. Current operating income PHP720.09 million and current operating expenditures PHP482.40 million are rounded displays. Preserved raw row and unit interpretation in sources/blgf-sre-fy2025-san-miguel.json. FY2024 final source retained for comparison; no FY2026 actual-spending claim.
+- Salangan procurement contact corroborated in official PhilGEPS notice 13303312, dated 28 October 2026. Four barangay entries now contain procurement contacts; none is certified as a general hotline. Address supplied is the professional contact address and is not promoted to an exact hall location.
+- No verified municipality-wide service hours or final FY2026 appropriation ordinance found in this review. Bidding document collection windows and private-business schedules were excluded from general office hours.

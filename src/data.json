@@ -172,7 +172,7 @@
     "name": "Buga",
     "lgu": "sm",
     "category": "Barangay",
-    "description": "Barangay sa San Miguel, Bulacan.",
+    "description": "Barangay sa San Miguel, Bulacan. May public procurement contact; hindi pa verified general barangay hotline.",
     "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=13236297",
     "phone": "",
     "email": "blesspv97@gmail.com",
@@ -425,7 +425,7 @@
     "name": "Pinambaran",
     "lgu": "sm",
     "category": "Barangay",
-    "description": "Barangay sa San Miguel, Bulacan.",
+    "description": "Barangay sa San Miguel, Bulacan. May public procurement contact; hindi pa verified general barangay hotline.",
     "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=11467840",
     "phone": "+639561136976",
     "email": "fajardonila27@gmail.com",
@@ -510,14 +510,15 @@
     "name": "Salangan",
     "lgu": "sm",
     "category": "Barangay",
-    "description": "Barangay sa San Miguel, Bulacan.",
-    "source": "https://bulacan.gov.ph/cities-and-municipalities/san-miguel/",
-    "phone": "",
-    "email": "",
+    "description": "Barangay sa San Miguel, Bulacan. May public procurement contact; hindi pa verified general barangay hotline.",
+    "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=13303312",
+    "phone": "+639324416793",
+    "email": "riveraanjo14@gmail.com",
     "address": "",
-    "note": "Pangalan at sakop na LGU lamang ang nasa source. Wala pang nakumpirmang barangay contact, address ng hall, o office hours.",
-    "reviewed": "2026-11-08",
-    "kind": "barangay"
+    "note": "Barangay treasurer Jomie Bernardino Rivera; PhilGEPS notice published 28 October 2026. Source lists Zone 4, Salangan as the contact address; hindi pa nakumpirmang eksaktong hall street address. Public professional contact para sa procurement, hindi general barangay hotline. General office hours hindi pa verified.",
+    "reviewed": "2026-11-09",
+    "kind": "barangay",
+    "contactPurpose": "Procurement contact lamang"
   },
   {
     "id": 38,
@@ -650,7 +651,7 @@
     "name": "Sibul",
     "lgu": "sm",
     "category": "Barangay",
-    "description": "Barangay sa San Miguel, Bulacan.",
+    "description": "Barangay sa San Miguel, Bulacan. May public procurement contact; hindi pa verified general barangay hotline.",
     "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=13003830",
     "phone": "+639488127143",
     "email": "brgysibulspring02023@gmail.com",
@@ -3354,5 +3355,51 @@
         "value": "₱118.46 milyon"
       }
     ]
+  },
+  {
+    "id": 212,
+    "lgu": "sm",
+    "kind": "budget",
+    "name": "BLGF Statement of Receipts and Expenditures — FY2025 Preliminary",
+    "category": "Reported actual receipts and expenditures",
+    "period": "FY2025 · Preliminary",
+    "description": "Mas bagong BLGF reported figures: current operating income ₱720.09 milyon; current operating expenditures ₱482.40 milyon.",
+    "source": "https://blgf.gov.ph/lgu-fiscal-data/",
+    "documentUrl": "https://blgf.gov.ph/wp-content/uploads/2026/05/By-LGU-SRE-2025.xlsx",
+    "reviewed": "2026-11-09",
+    "metrics": [
+      {
+        "label": "Local-source income",
+        "value": "₱121.70 milyon"
+      },
+      {
+        "label": "External-source income",
+        "value": "₱598.39 milyon"
+      },
+      {
+        "label": "Total current operating income",
+        "value": "₱720.09 milyon"
+      },
+      {
+        "label": "Total current operating expenditures",
+        "value": "₱482.40 milyon"
+      },
+      {
+        "label": "Net operating income",
+        "value": "₱237.70 milyon"
+      },
+      {
+        "label": "Capital/investment expenditures",
+        "value": "₱60.06 milyon"
+      },
+      {
+        "label": "Total non-operating expenditures",
+        "value": "₱74.28 milyon"
+      }
+    ],
+    "note": "Source: Bureau of Local Government Finance. FY2025 Preliminary; extraction date 3 March 2026. SRE sheet row 559, Region III / Bulacan / San Miguel / Municipality. Raw amounts in pesos are displayed in millions by Excel format #,##0.00,,; shown here rounded to two decimals in millions. LGU submissions through BLGF LIFT, hindi audit opinion. Hindi ito FY2026 annual appropriation at hindi final FY2025 release. Magkahiwalay ang operating at non-operating expenditure measures.",
+    "phone": "",
+    "email": "",
+    "address": ""
   }
 ]

@@ -173,13 +173,14 @@
     "lgu": "sm",
     "category": "Barangay",
     "description": "Barangay sa San Miguel, Bulacan.",
-    "source": "https://bulacan.gov.ph/cities-and-municipalities/san-miguel/",
+    "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=13236297",
     "phone": "",
-    "email": "",
+    "email": "blesspv97@gmail.com",
     "address": "",
-    "note": "Pangalan at sakop na LGU lamang ang nasa source. Wala pang nakumpirmang barangay contact, address ng hall, o office hours.",
-    "reviewed": "2026-11-08",
-    "kind": "barangay"
+    "note": "Barangay treasurer Blesilda P. Vivas; notice dated 17 September 2026. Malformed ang phone format sa source kaya hindi ginawang click-to-call. Public professional contact para sa bidding/procurement; hindi pa nakumpirmang general barangay hotline. Wala pang verified street address ng hall o general office hours.",
+    "reviewed": "2026-11-09",
+    "kind": "barangay",
+    "contactPurpose": "Procurement contact lamang"
   },
   {
     "id": 14,
@@ -425,13 +426,14 @@
     "lgu": "sm",
     "category": "Barangay",
     "description": "Barangay sa San Miguel, Bulacan.",
-    "source": "https://bulacan.gov.ph/cities-and-municipalities/san-miguel/",
-    "phone": "",
-    "email": "",
+    "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=11467840",
+    "phone": "+639561136976",
+    "email": "fajardonila27@gmail.com",
     "address": "",
-    "note": "Pangalan at sakop na LGU lamang ang nasa source. Wala pang nakumpirmang barangay contact, address ng hall, o office hours.",
-    "reviewed": "2026-11-08",
-    "kind": "barangay"
+    "note": "Barangay treasurer Leonila Baltazar Fajardo; historical notice dated 15 November 2024. Public professional contact para sa bidding/procurement; hindi pa nakumpirmang general barangay hotline. Wala pang verified street address ng hall o general office hours.",
+    "reviewed": "2026-11-09",
+    "kind": "barangay",
+    "contactPurpose": "Procurement contact lamang"
   },
   {
     "id": 32,
@@ -649,13 +651,14 @@
     "lgu": "sm",
     "category": "Barangay",
     "description": "Barangay sa San Miguel, Bulacan.",
-    "source": "https://bulacan.gov.ph/cities-and-municipalities/san-miguel/",
-    "phone": "",
-    "email": "",
+    "source": "https://notices.philgeps.gov.ph/GEPSNONPILOT/Tender/PrintableBidNoticeAbstractUI.aspx?refid=13003830",
+    "phone": "+639488127143",
+    "email": "brgysibulspring02023@gmail.com",
     "address": "",
-    "note": "Pangalan at sakop na LGU lamang ang nasa source. Wala pang nakumpirmang barangay contact, address ng hall, o office hours.",
-    "reviewed": "2026-11-08",
-    "kind": "barangay"
+    "note": "BAC chairman Willie DC. Fangon; notice dated 21 May 2026. Public professional contact para sa bidding/procurement; hindi pa nakumpirmang general barangay hotline. Wala pang verified street address ng hall o general office hours.",
+    "reviewed": "2026-11-09",
+    "kind": "barangay",
+    "contactPurpose": "Procurement contact lamang"
   },
   {
     "id": 48,
@@ -701,16 +704,16 @@
   },
   {
     "lgu": "sm",
-    "reviewed": "2026-11-08",
+    "reviewed": "2026-11-09",
     "phone": "",
     "email": "municipalityofsanmiguel.mba@gmail.com",
-    "address": "",
-    "note": "Contact mula sa opisyal na directory; hindi pa nasubukang tawagan. Kumpirmahin ang lokasyon at oras bago bumisita.",
+    "address": "046 Mulawin St, San Miguel, Bulacan",
+    "note": "Contact mula sa opisyal na directory; hindi pa nasubukang tawagan. Kumpirmahin ang lokasyon at oras bago bumisita. Address at email kinumpirma rin sa Contact Us page; hindi ibig sabihin nito na lahat ng opisina ay nasa parehong address.",
     "name": "Municipal Mayor's Office",
     "kind": "office",
     "category": "Municipal office",
     "description": "Pinuno: Hon. John A. Alvarez",
-    "source": "https://www.sanmiguelbulacan.gov.ph/offices/mYyVivo62Uc2wd65sNdA",
+    "source": "https://www.sanmiguelbulacan.gov.ph/contact",
     "head": "Hon. John A. Alvarez",
     "id": 51
   },
@@ -881,7 +884,7 @@
   },
   {
     "lgu": "sm",
-    "reviewed": "2026-11-08",
+    "reviewed": "2026-11-09",
     "phone": "09285019751 / (044) 792-0104",
     "email": "mho.sanmiguelbulacan3011@gmail.com",
     "address": "",
@@ -892,11 +895,14 @@
     "description": "Pinuno: Dr. Hamir C. Hechanova",
     "source": "https://www.sanmiguelbulacan.gov.ph/offices/nnqfqagP069TyCRf28V3",
     "head": "Dr. Hamir C. Hechanova",
-    "id": 63
+    "id": 63,
+    "hotline": "0920-926-1124",
+    "hotlineSource": "https://www.sanmiguelbulacan.gov.ph/contact",
+    "hotlineNote": "Iba ang MHO hotline sa contact number ng municipal office directory. Parehong ipinapakita ayon sa kani-kanilang source."
   },
   {
     "lgu": "sm",
-    "reviewed": "2026-11-08",
+    "reviewed": "2026-11-09",
     "phone": "09177152016",
     "email": "sanmiguel.mdrrmo2016@gmail.com",
     "address": "",
@@ -907,7 +913,9 @@
     "description": "Pinuno: Michael Joseph B. Santos",
     "source": "https://www.sanmiguelbulacan.gov.ph/offices/wLzUH6Py8SjCAYO1cryq",
     "head": "Michael Joseph B. Santos",
-    "id": 64
+    "id": 64,
+    "hotline": "0917-715-2016 / (044) 762-1020",
+    "hotlineSource": "https://www.sanmiguelbulacan.gov.ph/contact"
   },
   {
     "lgu": "sm",
@@ -1166,7 +1174,7 @@
   },
   {
     "lgu": "sm",
-    "reviewed": "2026-11-08",
+    "reviewed": "2026-11-09",
     "phone": "09985985398",
     "email": "sanmiguelmps210@yahoo.com",
     "address": "",
@@ -1177,7 +1185,9 @@
     "description": "Pinuno: PLTCOL Mohammad Taufh S. Abduhalim",
     "source": "https://www.sanmiguelbulacan.gov.ph/nationaloffices/7MkmSTnnqczMJbArpSTP",
     "head": "PLTCOL Mohammad Taufh S. Abduhalim",
-    "id": 82
+    "id": 82,
+    "hotline": "0956-612-4410 / 0998-598-5398",
+    "hotlineSource": "https://www.sanmiguelbulacan.gov.ph/contact"
   },
   {
     "lgu": "sm",
@@ -1436,7 +1446,7 @@
   },
   {
     "lgu": "sm",
-    "reviewed": "2026-11-08",
+    "reviewed": "2026-11-09",
     "phone": "",
     "email": "",
     "address": "",
@@ -1447,7 +1457,9 @@
     "description": "Buksan ang opisyal na checklist, proseso, bayad, at processing time ng tanggapan.",
     "source": "https://www.sanmiguelbulacan.gov.ph/transparency/citizens-charter",
     "documentUrl": "https://drive.google.com/file/d/1Bqe4a3qvamr0lV604wZl0cZiH4D3NUQS/view?usp=sharing",
-    "id": 100
+    "id": 100,
+    "hotline": "0917-715-2016 / (044) 762-1020",
+    "hotlineSource": "https://www.sanmiguelbulacan.gov.ph/contact"
   },
   {
     "lgu": "sm",
@@ -3264,5 +3276,83 @@
     "phone": "",
     "email": "",
     "address": ""
+  },
+  {
+    "id": 209,
+    "lgu": "sm",
+    "reviewed": "2026-11-09",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "note": "PDF page 5 (printed page 1/52), report printed 4 June 2025. DILG endorsement dated 29 May 2025 is on PDF page 3. Halaga ayon sa GAD plan; hindi pa ito corroborated sa final FY2026 annual appropriation ordinance. Hindi actual spending at hindi dapat idagdag ang GAD allocation sa total LGU budget reference.",
+    "name": "FY2026 GAD Plan and Budget",
+    "kind": "budget",
+    "category": "GAD plan and budget",
+    "period": "FY2026",
+    "description": "GAD allocation: ₱71,613,505.00. Nakasulat din sa plan ang total LGU budget reference na ₱752,364,729.60.",
+    "source": "https://www.sanmiguelbulacan.gov.ph/gad-plan-budget",
+    "documentUrl": "https://drive.google.com/file/d/1naBYZrZwRjcFZVGxnbYAeH960mwFAwhb/view"
+  },
+  {
+    "id": 210,
+    "lgu": "sm",
+    "reviewed": "2026-11-09",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "note": "Document listing lamang ang na-review; hindi pa napatunayan ang budget utilization o accomplishment amounts. Hindi kapalit ng full municipal expenditure statement.",
+    "name": "GAD Accomplishment Report 2025 — document listing",
+    "kind": "budget",
+    "category": "GAD accomplishment",
+    "period": "FY2025",
+    "description": "Opisyal na report link sa GAD Corner. Hindi pa na-review ang financial amounts sa buong dokumento.",
+    "source": "https://www.sanmiguelbulacan.gov.ph/gadcorner-page",
+    "documentUrl": "https://drive.google.com/file/d/1cud87uRDByxCldb81aOoUeYph96x37xH/view?usp=drive_link"
+  },
+  {
+    "id": 211,
+    "lgu": "sm",
+    "reviewed": "2026-11-09",
+    "phone": "",
+    "email": "",
+    "address": "",
+    "note": "BLGF FY2024 (Final), “In Php Million”, San Miguel Municipality / Bulacan / Region III, spreadsheet row 558. Values rounded to two decimals in source; hindi audit opinion. Operating at non-operating expenditures ay magkaibang sukatan; hindi pareho ng annual appropriation. Dataset URL linked in official BLGF FOI correspondence.",
+    "name": "BLGF Statement of Receipts and Expenditures — FY2024 Final",
+    "kind": "budget",
+    "category": "Reported actual receipts and expenditures",
+    "period": "FY2024",
+    "description": "Current operating income: ₱619.88 milyon; current operating expenditures: ₱465.31 milyon. Historical reported figures, hindi FY2026 budget.",
+    "source": "https://www.foi.gov.ph/agencies/blgf/clarification-request-on-fy-2024-sre-by-lgu-dataset/",
+    "documentUrl": "https://docs.google.com/spreadsheets/d/1TWtDmlg4snnnlfaT08AUTT-lKvtCKjo5/edit?gid=230820946",
+    "metrics": [
+      {
+        "label": "Local-source income",
+        "value": "₱116.47 milyon"
+      },
+      {
+        "label": "External-source income",
+        "value": "₱503.41 milyon"
+      },
+      {
+        "label": "Total current operating income",
+        "value": "₱619.88 milyon"
+      },
+      {
+        "label": "Total current operating expenditures",
+        "value": "₱465.31 milyon"
+      },
+      {
+        "label": "Net operating income",
+        "value": "₱154.57 milyon"
+      },
+      {
+        "label": "Capital/investment expenditures",
+        "value": "₱109.00 milyon"
+      },
+      {
+        "label": "Total non-operating expenditures",
+        "value": "₱118.46 milyon"
+      }
+    ]
   }
 ]
